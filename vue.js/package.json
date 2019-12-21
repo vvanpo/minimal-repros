@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@vue/test-utils": "*",
+    "jest": "*"
+  },
+  "dependencies": {
+    "vue": "*",
+    "vue-template-compiler": "*"
+  }
+}
