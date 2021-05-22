@@ -1,1 +1,3 @@
-import lodash from 'lodash-es'
+require('@babel/register')
+
+require('./foo/bar')

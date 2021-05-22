@@ -1,0 +1,9 @@
+#!/bin/sh
+
+set -x
+
+node ./index.js
+
+cd foo
+
+node ../index.js
